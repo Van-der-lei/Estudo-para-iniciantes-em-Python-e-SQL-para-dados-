@@ -1,4 +1,4 @@
-# Estudo-para-iniciantes-em-Python-e-SQL-para-dados
+# estudo-para-iniciantes-em-python-e-sql-para-dados
 #### 📚 Fontes e Materiais de Referência
 
 Este repositório foi estruturado com base em **34 fontes de estudo e consulta** especializadas em **Python e SQL para Análise e Engenharia de Dados**. O acervo engloba desde documentações oficiais até scripts práticos de mercado:
