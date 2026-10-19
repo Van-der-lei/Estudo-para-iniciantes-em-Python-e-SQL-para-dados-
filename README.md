@@ -22,4 +22,6 @@ Este repositório foi estruturado com base em **34 fontes de estudo e consulta**
 * **Python Orientado a Objetos (POO)**: Estruturação de classes, métodos, abstração e boas práticas de arquitetura de software.
 * **Integração Python + SQL**: Conexão entre scripts Python e SGBDs, execução de queries, prevenção contra SQL Injection e manipulação de dados.
 * **Cursos e Masterclasses**: Conteúdos completos de capacitação do zero ao avançado (Simplilearn, Coursera, entre outros).
+### 5. Comportamento 
+* Solicitado para agir como um professor expecialista na area e ensinar de forma didatica e dinamica .
 https://notebook.google.com/notebook/158b14ed-cb6d-42b6-9315-37ac51a6da0f
